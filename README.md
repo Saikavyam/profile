@@ -1,47 +1,48 @@
-# 🌸 Sai Kavya Majjiga 
-*"Coding in stanzas, debugging with grace,*  
-*Turning algorithms into art, at digital pace."*  
+# 🍁 Sai Kavya Majjiga 
+*"Like autumn leaves, my code falls in perfect patterns—*  
+*Crisp, vibrant, and full of hidden wonders."*  
 
-**Backend Developer • Cloud Poet • AI Storyteller**  
+**Backend Developer • Cloud Whisperer • Algorithm Alchemist**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Weave_Dreams-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved_Problems-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Saikavya_04/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Share_Harvest-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Autumn_Leaves-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Saikavya_04/)  
 
 ---
 
-### 🎻 My Technical Sonnet  
+### 🎻 My Technical Haiku  
 **Languages:**  
-`Java` (My first love) | `Python` (Where ideas bloom) | `SQL` (Database whispers)  
+`Java` (Maple syrup sweet) | `Python` (Harvest moon bright) | `SQL` (Forest of queries)  
 
 **Cloud & AI:**  
-`Oracle Cloud Certified` | `AWS` | `Scikit-learn` (Teaching machines to dream)  
+`Oracle Cloud` (Pumpkin spice certified) | `AWS` (Migrating geese) | `Scikit-learn` (Teaching squirrels algebra)  
 
 **Tools:**  
-`Git` (Time traveler) | `Docker` (Shipbuilder) | `VS Code` (My digital quill)  
+`Git` (Acorn versioning) | `Docker` (Nut storage) | `VS Code` (My enchanted quill)  
 
 ---
 
-### 📜 Repository Ballads  
+### 📜 Repository Harvest  
 
-| Project | Verse | Tech Stack |  
-|---------|-------|------------|  
-| **[Aptos Learn-to-Earn](https://github.com/Saikavyam/Aptos--LearntoEarn)** | *"Where blockchain meets education’s light,<br>Tokenized knowledge takes its flight."* | Next.js · Move · Firebase |  
-| **[Netflix Recommender](https://github.com/Saikavyam/NetflixRecommendation)** | *"Like a librarian of silver screens,<br>87% accurate in guessing your dreams."* | Python · Flask · Redis |  
-| **[Cloud Cost Optimizer](https://github.com/Saikavyam/cloud-spend-sculptorl)** | *"Counting cloud coins with ML eyes,<br>Saved $15K—a fiscal prize."* | Scikit-learn · SQLite · JWT |  
-| **[Java Internship Suite](https://github.com/Saikavyam/Java-Intern-Projects)** | *"Four Java tales in OOP’s embrace,<br>35% fewer bugs—elegance in place."* | Java · Swing · JDBC |  
-
----
-
-### 🏆 Legendary Quests  
-- 🏅 **Oracle Cloud AI Foundations** (2024) - *"Deciphered AI’s ancient runes"*  
-- ⚔️ **Code Clash 2025 Finalist** - *"Top 0.5% in the algorithm colosseum"*  
-- 🌟 **HackerRank Gold** - *"Java & Python—dual-wielding mastery"*  
+| Project | Autumn Verse | Tech Stack |  
+|---------|--------------|------------|  
+| **[Aptos Learn-to-Earn](https://github.com/Saikavyam/Aptos--LearntoEarn)** | *"Tokens fall like golden leaves,*<br>*85% engagement in education’s breeze."* | Next.js · Move · Firebase |  
+| **[Netflix Recommender](https://github.com/Saikavyam/NetflixRecommendation)** | *"Pumpkin-spiced recommendations flow,*<br>*87% accuracy—the algorithm knows."* | Python · Flask · Redis |  
+| **[Cloud Cost Optimizer](https://github.com/Saikavyam/cloud-spend-sculptorl)** | *"Gathering cloud coins before winter’s call,*<br>*$15K saved—the richest fall."* | Scikit-learn · SQLite · JWT |  
+| **[Java Internship Suite](https://github.com/Saikavyam/Java-Intern-Projects)** | *"Four Java acorns planted with care,*<br>*35% fewer bugs—autumn’s repair."* | Java · Swing · JDBC |  
+| **[Restaurant Analytics](https://github.com/Saikavyam/Cognifyz-Internship)** | *"Savoring data like apple pie,*<br>*87% accuracy—no need to pry."* | Pandas · Tableau · PySpark |  
 
 ---
 
-### 📬 Let’s Compose Together  
+### 🏆 Autumn’s Bounty  
+- 🎃 **Oracle Cloud AI Foundations** (2024) - *"Carved the perfect AI pumpkin"*  
+- 🌰 **Code Clash 2025 Finalist** - *"Cracked the algorithm walnut"*  
+- 🍯 **HackerRank Gold** - *"Java & Python—sweet as autumn honey"*  
+
+---
+
+### 📬 Around the Campfire  
 ```python
 def contact():
-    email = "8.saikavya12@gmail.com"
+    email = "8.saikavya12@gmail.com"  # Owl post accepted
     portfolio = "https://my-portfolio-three-umber-11.vercel.app/"
-    return f"Open to collaborations and new verses in code!"
+    return "Let’s swap stories by the digital fire"
